@@ -1,12 +1,13 @@
-- 😄 Ola meu nome é David da Silva Rodrigues
+### Ola meu nome é David da Silva Rodrigues 😄 
 - 🖥️ Sou um desenvolvedor front e back-end
-- 👨‍🎓 Estudante de iencias da Computação pela Universidade do Estado do Rio de Janeiro - UERJ 
+- 👨‍🎓 Estudante de ciencias da Computação pela Universidade do Estado do Rio de Janeiro - UERJ 
 
-<div align="center">
+<div>
   <a href="https://github.com/DSRodriguess">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DSRodriguess&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DSRodriguess&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="David-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="David-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
