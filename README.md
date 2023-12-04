@@ -1,5 +1,5 @@
 ### Ola meu nome é David da Silva Rodrigues 😄 
-- 🖥️ Sou um desenvolvedor front e back-end
+- 🖥️ Sou um desenvolvedor back-end
 - 👨‍🎓 Estudante de ciencias da Computação pela Universidade do Estado do Rio de Janeiro - UERJ 
 
 <div>
