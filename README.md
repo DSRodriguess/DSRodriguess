@@ -1,6 +1,6 @@
 ### 👋 Olá! Meu nome é David da Silva Rodrigues 😄
 
-- 🖥️ Desenvolvedor **Back-End**
+- 🖥️ Desenvolvedor **Full Stack**
 - 👨‍🎓 Estudante de **Ciência da Computação** na Universidade do Estado do Rio de Janeiro - **UERJ**
 - 💡 Apaixonado por tecnologia, automação e boas práticas de programação
 
